@@ -1,0 +1,6 @@
+screen shots of android application. this commercial android application has php,MySQL and remote database as its backend.
+The google firebase is used to authenticate the user via otp. Farmer can upload their products, its price and quantity.
+The user see the price and if they interest to buy the product from seller the can directly call the seller by click the call button.
+This is same as farmer to seed sellers.
+Admin app is used to monitor the what happen in the efarmer market. via admin app admin can see who are sell the product and what they sell 
+and can get the full detail of seller in admin application.
