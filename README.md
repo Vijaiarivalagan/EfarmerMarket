@@ -10,4 +10,6 @@ buyesrs also can be all the peoples( Formers and organizations also).
 
 The main aim of the product is to elimnate the Intermediaries and give more profit to owners of the product.
 
+** If anyone wants to scale this application or make this project into real world market ping me on vijaiarivalagank@gmail.com **
+
 
